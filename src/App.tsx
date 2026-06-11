@@ -115,7 +115,7 @@ export default function App() {
   return (
     <NotificationProvider>
       <AuthProvider>
-        <Router>
+        <Router basename="/Community-web-P-2">
           <AppContent />
         </Router>
       </AuthProvider>
