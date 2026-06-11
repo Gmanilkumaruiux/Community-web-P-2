@@ -1,0 +1,6 @@
+{
+  "name": "Community Help Platform",
+  "description": "A modern, responsive platform for community support and mutual aid, supporting user authentication, custom request creation, and platform navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
